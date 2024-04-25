@@ -1,0 +1,8 @@
+D:\QuestPond\MySolution\KeywordsLearning\bin\Debug\KeywordsLearning.exe.config
+D:\QuestPond\MySolution\KeywordsLearning\bin\Debug\KeywordsLearning.exe
+D:\QuestPond\MySolution\KeywordsLearning\bin\Debug\KeywordsLearning.pdb
+D:\QuestPond\MySolution\KeywordsLearning\obj\Debug\KeywordsLearning.csproj.AssemblyReference.cache
+D:\QuestPond\MySolution\KeywordsLearning\obj\Debug\KeywordsLearning.csproj.SuggestedBindingRedirects.cache
+D:\QuestPond\MySolution\KeywordsLearning\obj\Debug\KeywordsLearning.csproj.CoreCompileInputs.cache
+D:\QuestPond\MySolution\KeywordsLearning\obj\Debug\KeywordsLearning.exe
+D:\QuestPond\MySolution\KeywordsLearning\obj\Debug\KeywordsLearning.pdb

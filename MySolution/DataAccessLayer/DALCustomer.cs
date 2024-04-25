@@ -13,5 +13,9 @@ namespace DataAccessLayer
         {
             //DB Access
         }
+        public DALCustomer GetClone()
+        {
+            return (DALCustomer) this.MemberwiseClone();
+        }
     }
 }

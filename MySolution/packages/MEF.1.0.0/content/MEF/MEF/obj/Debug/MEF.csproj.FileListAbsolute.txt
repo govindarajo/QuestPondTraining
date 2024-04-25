@@ -1,0 +1,6 @@
+c:\users\clairejune\documents\visual studio 2013\Projects\MEF\MEF\bin\Debug\MEF.exe.config
+c:\users\clairejune\documents\visual studio 2013\Projects\MEF\MEF\bin\Debug\MEF.exe
+c:\users\clairejune\documents\visual studio 2013\Projects\MEF\MEF\bin\Debug\MEF.pdb
+c:\users\clairejune\documents\visual studio 2013\Projects\MEF\MEF\obj\Debug\MEF.csprojResolveAssemblyReference.cache
+c:\users\clairejune\documents\visual studio 2013\Projects\MEF\MEF\obj\Debug\MEF.exe
+c:\users\clairejune\documents\visual studio 2013\Projects\MEF\MEF\obj\Debug\MEF.pdb
